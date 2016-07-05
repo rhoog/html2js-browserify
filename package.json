@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "through": "~2.3.4",
-    "html-minifier": "0.7.2"
+    "html-minifier": "2.1.7"
   },
   "devDependencies": {
     "browserify": "~3.4.1",
